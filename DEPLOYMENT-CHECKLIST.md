@@ -59,10 +59,7 @@ Use this checklist to track your progress toward launching the Captain Derkin we
 
 ### Contact Information
 - [ ] Email addresses verified:
-  - [ ] `press@ditmerpartners.com`
-  - [ ] `support@ditmerpartners.com`
-  - [ ] `privacy@ditmerpartners.com`
-  - [ ] `legal@ditmerpartners.com`
+  - [ ] `apps@ditmerpartners.com` (centralized contact for press/support/legal)
 
 ### Legal Pages
 - [ ] Privacy policy reviewed (`/docs/legal/privacy.html`)

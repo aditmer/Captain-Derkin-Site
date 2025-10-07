@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="titleDesc">
+  <title id="titleDesc">Captain Derkin — Square Feature 512x512</title>
+  <defs>
+    <linearGradient id="g4" x1="0" x2="1">
+      <stop offset="0" stop-color="#0B0E14"/>
+      <stop offset="1" stop-color="#1b2730"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#g4)" rx="32"/>
+  <image href="feature-graphic.png" x="56" y="56" width="400" height="200" opacity="0.12" preserveAspectRatio="xMidYMid slice"/>
+  <text x="56" y="320" fill="#D9A441" font-family="Rubik, Arial, sans-serif" font-size="28" font-weight="700">Captain Derkin</text>
+</svg>

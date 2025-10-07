@@ -60,7 +60,7 @@ Update the legal contact information in:
 - `/docs/legal/privacy.html`
 - `/docs/legal/terms.html`
 
-Replace `[Your Address - Optional]` and `[Your Jurisdiction]` with actual details.
+Remove `[Your Address - Optional]` placeholders from public-facing pages; use apps@ditmerpartners.com as the centralized contact. Replace `[Your Jurisdiction]` if required for legal clarity.
 
 ## 📁 File Structure
 
@@ -216,9 +216,9 @@ To use a custom domain like `captaiderkin.com`:
 ## 📞 Support
 
 For questions or issues with Captain Derkin:
-- **Email**: support@ditmerpartners.com
-- **Press**: press@ditmerpartners.com
-- **Legal**: legal@ditmerpartners.com
+- **Email**: apps@ditmerpartners.com
+- **Press**: apps@ditmerpartners.com
+- **Legal**: apps@ditmerpartners.com
 
 ## 🚢 Ready to Launch?
 

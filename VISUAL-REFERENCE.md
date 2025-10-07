@@ -164,7 +164,8 @@ This document describes what the website will look like once assets are added.
 │  [App Icon]  [Feature Graphic]  [Screenshots]  [Logo]       │
 │                                                               │
 │              Media Contact                                    │
-│           press@ditmerpartners.com                           │
+│           apps@ditmerpartners.com                             │
+│           apps@ditmerpartners.com                           │
 │                                                               │
 │══════════════════════════════════════════════════════════════│
 └─────────────────────────────────────────────────────────────┘

@@ -152,9 +152,9 @@ Captain-Derkin-Site/
 
 ### Important (Before Marketing)
 4. **Customize legal pages**:
-   - Add your address in privacy.html and terms.html
-   - Specify jurisdiction in terms.html
-   - Update contact email addresses
+   - Remove any physical addresses from the public site; use the centralized contact email instead
+   - Specify jurisdiction in terms.html (if required)
+   - Ensure the contact email is apps@ditmerpartners.com
 
 5. **Test thoroughly**:
    - Mobile devices (iOS and Android)
@@ -287,7 +287,8 @@ All core requirements met:
 
 ---
 
-For questions or issues, refer to:
+For questions, issues, or press inquiries, refer to:
 - **Setup Guide**: `/docs/SETUP.md`
 - **Main README**: `/README.md`
 - **Asset Guides**: `/docs/assets/*/README.md`
+- **Contact**: apps@ditmerpartners.com

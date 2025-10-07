@@ -120,8 +120,8 @@ Before making your site public:
 
 **Ditmer Partners**
 - Website: [https://aditmer.github.io/Captain-Derkin-Site/](https://aditmer.github.io/Captain-Derkin-Site/)
-- Support: support@ditmerpartners.com
-- Press: press@ditmerpartners.com
+- Support: apps@ditmerpartners.com
+- Press: apps@ditmerpartners.com
 
 ## 📄 License
 

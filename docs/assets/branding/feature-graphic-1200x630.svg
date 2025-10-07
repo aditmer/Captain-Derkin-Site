@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="titleDesc">
+  <title id="titleDesc">Captain Derkin — Feature Graphic 1200x630</title>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0B0E14"/>
+      <stop offset="1" stop-color="#16202b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <!-- subtle texture using the main feature PNG when available -->
+  <image href="feature-graphic.png" x="600" y="80" width="520" height="270" opacity="0.12" preserveAspectRatio="xMidYMid slice"/>
+  <g transform="translate(80,120)">
+    <text x="0" y="0" fill="#D9A441" font-family="Rubik, Arial, sans-serif" font-size="48" font-weight="700">Captain Derkin</text>
+    <text x="0" y="64" fill="#FAF7F2" font-family="Inter, Arial, sans-serif" font-size="24">Command the deck. Conquer the seas.</text>
+  </g>
+  <rect x="72" y="420" width="1056" height="160" rx="12" fill="#000" fill-opacity="0.12"/>
+</svg>
