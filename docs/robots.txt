@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://aditmer.github.io/Captain-Derkin-Site/sitemap.xml
+
+# Disallow legal pages from search engines
+User-agent: *
+Disallow: /legal/privacy.html
+Disallow: /legal/terms.html
