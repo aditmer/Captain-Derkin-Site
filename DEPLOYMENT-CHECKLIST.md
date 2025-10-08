@@ -93,6 +93,7 @@ Use this checklist to track your progress toward launching the Captain Derkin we
 - [ ] Custom domain set in GitHub Pages settings
 - [ ] HTTPS enforced after DNS propagation
 - [ ] Test custom domain loads correctly
+- [ ] `app-ads.txt` published at site root (`https://captainderkin.com/app-ads.txt`) and verified
 
 ---
 
