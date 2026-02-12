@@ -259,23 +259,12 @@
   }
 
   // ===================================
-  // Update Store Links (placeholder for future)
+  // Store Links are defined in HTML
   // ===================================
   
   function updateStoreLinks() {
-    // When you have actual store URLs, you can update them here
-    // For now, the links in HTML are placeholders (#)
-    
-    // Example:
-    // const appStoreLinks = document.querySelectorAll('a[aria-label*="App Store"]');
-    // appStoreLinks.forEach(link => {
-    //   link.href = 'https://apps.apple.com/your-app-link';
-    // });
-    
-    // const playStoreLinks = document.querySelectorAll('a[aria-label*="Google Play"]');
-    // playStoreLinks.forEach(link => {
-    //   link.href = 'https://play.google.com/store/apps/details?id=your.app.id';
-    // });
+    // Store links are now set directly in docs/index.html.
+    // Keep this function so future campaign/tracking overrides can be applied in one place.
   }
 
   // ===================================
